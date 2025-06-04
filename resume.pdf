@@ -1,0 +1,279 @@
+Andrei Ivanov  
+Richmond Hill, Ontario  
+647-298-2883 • i_v_a_n_o_v@hotmail.com  
+https://www.linkedin.com/in/andrei-ivanov-5783762/ 
+IT Consultant  
+Technically sophisticated engineering professional with a solid history of producing cost-effective 
+solutions in alignment with current Technically sophisticated engineering professional with over 26 years 
+of experience in delivering cost-effective, cutting-edge IT solutions, SDx Engineering solution. Proven 
+expertise in AWS, Azure, GCP, and Kubernetes, specializing in DevOps, DevSecOps, and SRE. 
+Recognized for consistently extending contracts with top-tier clients due to exceptional performance and 
+reliability. Adept at managing complex infrastructures, automating CI/CD pipelines, and implementing 
+robust cloud and on-premise systems. 
+AWS & Azure & GCP Certified DevOps / DevSecOps / Cloud / SRE Engineer 
+Areas of Expertise  
+• 26 years in IT. Broad background and success in provisioning consulting services in relation to SCM, TFS, Cloud Solutions 
+based on AWS, Azure, GCP, Kubernetes, OpenShift, Azure DevOps, CI/CD Pipelines, Octopus. Specialize on 
+implementation cloud and on-prem systems that support the business goals (Software as a Service (SaaS), Infrastructure 
+as Code (AWS CloudFormation, Kubernetes YAML files, Terraform, IaC (Azure Resource Management (ARM) Templates), 
+Bicep). Platform as a Service (PaaS) - OpenShift (RedHat/IBM), and Infrastructure as a Service (IaaS)), SRE (Site Reliability 
+Engineering). Consistently receive contract extensions from reputable clients including Rogers Communications, Scotia 
+Bank, CIBC, TD Bank, Alterna Bank, BMO, City Bank, LCBO, Morneau Shepell, Sun Life Financial, Canada Life, Agfa 
+Healthcare, Compuware (Changepoint), Siebel and Giesecke Devrient (G&D). 
+• Adept in managing the infrastructure and performance of Team Foundation Servers (TFS), Azure DevOps, Jenkins, Jira, 
+Confluence, Bitbucket, Git, Bamboo, Artifactory, APACHE, RHEL by conducting installations, configurations, integrations, 
+maintenance, migrations, performance management and automations.  Key and Certificate Management. Automate 
+Every Machine Identity (Venafi) 
+• Analytically minded with an ability to develop and execute solutions, deploy automation tools, build and rollout various 
+systems, and create/implement workflows, SRE (Site Reliability Engineering).  
+• Outstanding interpersonal and communication strengths leveraged to train users, troubleshoot root system issues, and 
+ensure total client satisfaction.  
+Technical Stack 
+• Languages:  Java, Apache Groovy, Go (Golang), Python, C, C++, VC++, C#, VB.NET, .NET 4.7 Framework (LINQ, WPF, WCF, 
+Silverlight, WWF, WSDL), HCL, PROGRESS SOFWARE, PROBE, MFC / STL / ATL COM / DCOM / COM+, VB, PL/SQL, T-SQL, 
+MDX, InstallShield, Windows Installer, Ansible, Kubernetes and Puppet, Terraform scripts, Shell, Bash and Blueprint 
+scripts, Python  
+• OSs: Win 9x/NT/2K/XP/Windows7/Windows10, .NET 2.0/3.0/3.5/4.0/4.5/4.7, APACHE, UNIX AIX 4.x/5.x, Sun Solaris, 
+RHEL/Linux 6.x/7.x/SuSe 10.2/Red Hat 5.7/CentOS/UBUNTU 17.10 / 18.04 / 22.04 
+•          DevOps & Cloud: Microsoft Azure, AWS GCP, Kubernetes, Docker, OpenStack, Hybrid Could 
+•          Security: SSL, TLS, X509, Venafi, SAML, OAuth 2.0, Identity and Access Management (IAM)  
+• Databases: DB2, Oracle, MS SQL Server, MS Access, ODBC, DAO, RDO, ADO, ATL COM / DCOM, CRM solutions, CRYSTAL 
+REPORT, TFS Data Warehouse, TFS OLAP (online analytical processing) cube, SSRS, SSAS, ETL (SSIS), batch scripting, 
+process integration / automation, Bitbucket, Cassandra DB, Big Data  
+1 
+• Web: IIS, VBScript, JavaScript / Node.js, AngularJS, jQuery, JSON, Silverlight, HTML, HTML5, DHTML, XML, FTP / SFTP, 
+MVC, Entity Framework  
+• Network: TCP/IP (Windows Sockets and NetBIOS APIs)/UDP, Transaction Internet Protocol (TIP), FIX, CNTLM, knowledge 
+of setup and configuring Clusters, Load Balancers (NGINX, F5, Citrix, ELB, GCLB, Azure LB, Barracuda LB), Firewalls (Web 
+Application Firewalls (WAF), static and dynamic application security testing (SAST, DAST).), and various networking 
+concepts and implementations   
+• Tools: MS Office, Lotus Notes, ANT, NANT, MS Build, Visual Build, VMWare, Docker, MAVEN, Rational Team Concert 
+(RTC/JAZZ), Nagios, Logstash, Splunk, Nexus, CVS, VSS, Git, Helm (Kubernetes package manager), Excel VBA, Erwin,  Elvin, 
+Visual Quantify, Rational Software, GlueCode Diagnostic Toolset, Bounds Checker,  Araxis Merge, Cygwin, X-Deep, 
+Terminal Services, Far Manager, UML, TFS 2005 – 2015, Team Review, NDepend, Folder Sizes, Web Access TSWA, Burp 
+Suite, NuGet, mRemoteNG, MobaXterm, HipChat, Skype for Business, CISCO WebEx, ServiceNow, ATOM (language
+terrarform), TestNG in Selenium, CustomerWise, IntelliJ IDEA, Pycharm (Python), AWS Security Hub, AWS IAM, IAM Policy 
+Simulator, Amazon GuardDuty, Amazon Macie, AWS Config, AWS CloudTrail, AWS CloudTrail Insights, AWS Secrets 
+Manager, SIEM and SOAR (use interchangeably) 
+PROFESSIONAL EXPERIENCE   
+Canada Life, Toronto, Ontario 
+DevSecOps Engineer                                                        
+Oct 2022 – Aug 2024 
+• Developed CI/CD pipelines and IaC infrastructure deployments on Azure DevOps using Bicep modules 
+• Deployed and Managed container-based apps with Azure Kubernetes Service (AKS) for Azure Stack HCI (Hyperconverged 
+Infrastructure) 
+• Build end-to-end data pipelines (ADLS (Azure Data Lake Storage), Kafka, Databricks and Airflow Clusters, HDFS (Hadoop 
+Distributed File system), Big Data and Cassandra) 
+• Reviewed Automated Builds and Deployments (AWS, Jenkins, Ansible Tower, Site Reliability Engineering (SRE)) in an agile 
+environment. 
+• Provided templates for AWS CloudFormation service that allows to model and set up Amazon Web Services (AWS) 
+resources in an automated and repeatable way (IaC – infrastructure as code) 
+• Integrated Venafi with DevOps pipelines and infrastructure-as-code (IaC) platforms, Venafi ensures that machine 
+identities are provisioned securely without slowing down development and deployment processes. 
+• Key and Certificate Management. Automate Every Machine Identity – Venafi Zero Touch PKI is a cloud-based, turnkey 
+solution that delivers no-touch, fully automated modern PKI 
+• Consulted and reviewed Amazon AWS Security Services (Key Management Service – KMS, CloudHSM, AWS WAF, AWS 
+Secrets Manager, AWS Shield, AWS GuardDuty, Amazon Inspector, Amazon Detective, AWS Security Hub, AWS Artifact, 
+AWS CloudWatch, AWS Config, AWS CloudTrail, AWS CloudFormation, Amazon VPC Flow Logs, AWS Systems Manager, 
+Amazon Macie, AWS Well-Architected Tool (Reference: AWS Security Fundamentals). 
+• Participated in Hybris Platform Certification (documentation and Encryption, Certifications and Keys, System 
+Configuration, Data Backup and Recovery, Access Requests and Privileged Access). 
+• Reviewed and interpretated Pentest results (Salesforce Vulnerability Finding Submittal Guide and Security Assessment 
+Agreement) 
+Environments: Windows 10, macOS Ventura 13.3, Linux, Python, PowerShell, Kubernetes, Grafana, Prometheus, Kibana, 
+Agile, Scrums, AWS Cloud, Git, Jenkins, Azure Cloud, SAP Hybris, Salesforce, Terraform, Adobe Experience Manager (AEM) 
+OpenCloud on AWS, Splunk, AppDynamics 
+Sun Life Financial, Toronto, Ontario 
+DevOps DevSecOps Engineer                                       
+Aug 2021– Sept 2022 
+• Automated Builds and Deployments (AWS, Jenkins, Ansible Tower, Continues Delivery Director (CDD), Site Reliability 
+Engineering (SRE)) in an agile environment. 
+• Blue-Green project assistance (dynamically assign the address of the “Live” and/or “Dev” instance to predefined Aliases, 
+Amazon Relational Database Service (AWS RDS), Redis, MongoDB), Big Data and Cassandra 
+2 
+• Security Concerns analysis (variety of tools and documentation: AWS Security Hub combine information from the AWS 
+IAM, IAM Policy Simulator, Amazon GuardDuty, Amazon Macie, AWS Config, AWS CloudTrail, AWS CloudTrail Insights). 
+• Setup AWS Secrets Manager for automatic rotation for AWS services (Amazon RDS, Lambda and API gateway). 
+• Setup the CI/CD pipelines (Jenkins, Ansible Tower (Ansible), Apache Groovy, Continues Delivery Director (CDD)). 
+• Cross groups collaboration within IT – Dashboards Grafana, Workplace Chat, Service Now 
+• Post builds and deployments validations and troubleshoots with finalized solutions (Jenkins, Ansible Tower, Apache 
+Groovy).  
+• Builds and deployments Automation support (CI/CD pipelines, Ansible Tower, Bitbucket, Jira, Artifactory). 
+• Knowledge transfers (KTs, Snagit, Workplace Chat, Meeting's setup). 
+Environments: Windows 10, Linux, Python, PowerShell, Kubernetes, Grafana, Prometheus, Kibana, Agile, Scrums, AWS, 
+Git  
+Morneau Shepell, Toronto, Ontario 
+DevOps Engineer                               
+Aug 2020 – Aug 2021 
+• Automated Builds and Deployments (Azure DevOps, Octopus (Environments, Tenants, Channels, Infrastructure, Library, 
+Configuration, Lifecycles), AKS, Azure (ARM Templates (Infrastructure as Code (IaC))), SRE (Site reliability engineering).   
+• Setup the CI/CD pipelines Azure DevOps, Octopus, Terraform, OpenShift, Kubernetes (K8s), Docker, AKS on Cloud in an 
+agile environment. 
+• Migrated projects between Azure.  
+• Cross groups collaboration within IT – Dashboards in Azure DevOps, Microsoft Teams, CustomerWise. 
+• Post builds and deployments validations and troubleshoots with finalized solutions (Octopus verbose logging and Azure 
+DevOps pipelines enmeshment logging, SonarQube, Security).  
+• Builds and deployments Automation support (CI/CD pipelines). 
+• Setup Kubernetes cluster for Kafka. 
+• Project migration (Azure DevOps (Library and Task groups), Terraform, PowerShell, Azure scripts). 
+• Project Management (Azure DevOps (Roles, Groups, Teams, Privileges)). 
+• Handled Escrows requests. 
+• Packages and Container repositories tasks (ProGet and other (packages validation and troubleshooting, packages 
+promotions)). 
+• Knowledge transfers (KTs, Microsoft Stream, Microsoft Teams, Meeting's setup). 
+Environments: Windows 10, Linux, Python, PowerShell, Terraform, Kubernetes (CentOS on prem, AKS on Cloud), Grafana, 
+Prometheus, Kibana, Agile, Scrums, Scrum of Scrums (SoS), Octopus, Azure Cloud, Azure DevOps , AVD (Azure Virtual 
+Desktop, Git, Kafka, MongoDB, Big Data and Cassandra, Redis  
+LCBO, Toronto, Ontario  
+DevOps - Builds and Deployments Automation                        
+June 2018 – June 2020  
+• Automated Builds and Deployments for Symphony project (take over optimized applications and solutions from Deloitte 
+and IBM) for DEV, TEST, QA, STAGE and PROD environments (Azure Blob, WCS 8 and OMS 9.5). 
+• Azure Cloud Infrastructure and Platform automation with Terraform Enterprise Factory/Provider, Azure DevOps Services 
+CI/CD pipelines, GitHub, Git, Jenkins, Bitbucket, Azure Kubernetes Service (AKS), and Python scripts. 
+• Build customized Terraform modules for Azure core services: Databricks, Data Factory, Synapse, MI, AKS, ACR, IAM, RG, 
+MG, App Service, Functions, Logic App in an agile environment. 
+• Setup the CI/CD pipelines using Jenkins, Terraform and IBM Cloud Pak for Integration on Microsoft Azure (The IBM® Cloud 
+Pak for Integration™ provides integration when deployed onto Kubernetes (stylized as k8s)) (Kubernetes 1.9 Alpha (CSI 
+and CNI networking plugin), Helm Charts (Kubernetes package manager)) HA clusters from scratch.  
+• Extreme collaboration with all groups within IT – Canada, US and Offshore (HipChat, Skype for Business, CISCO WebEx).  
+• Created DevOps team for LCBO to transfer applications from 3rd party consulting companies. Designed and implemented 
+custom Jenkins Jobs, build pipelines, Docker containers (docker-compose).   
+• Post builds and deployments validations (SonarQube, Log Parser custom rules, Security)  
+• ALM Octane integration.  
+3 
+• Setup Kubernetes cluster. For store, search, analyze and visualize data setup from scratch Elasticsearch, Logstash and 
+Kibana (ELK Stack) using Docker Containers, Helm (Kubernetes package manager). 
+• Setup Kubernetes Pod environment variables to expose information about itself to Containers running in the Pod 
+Environment variables.   
+• Builds and deployments Automation to replace manual processes (CI/CD pipelines, Helm Charts (Kubernetes package 
+manager)), SRE (Site reliability engineering). 
+Environments: Windows 7, Red Hat Enterprise Linux (RHEL), DB2, Oracle, AIX, Bitbucket, Bash, Shell Scripting, Python, 
+Ansible, Terraform, Kubernetes, WebSphere Commerce v8 (IBM WCS), Order Management Software 9.5 (IBM Sterling OMS), 
+Agile, Jenkins, ALM Octane, Azure Blob, AVD (Azure Virtual Desktop, AWS, ELK, Docker, docker-compose, Redis, 
+MongoDB  
+TD Bank  
+DevOps - Operations Shared Services - Environment Integration        
+Nov 2017 – Mar 2018  
+• Azure Cloud Infrastructure and Platform automation with Terraform Enterprise Factory/Provider, Azure DevOps Services 
+CI/CD pipelines, GitHub, Git, Jenkins, Bitbucket, Azure Kubernetes Service (AKS), and Python scripts. 
+• Build customized Terraform modules for Azure core services: Databricks, Data Factory, Synapse, MI, AKS, ACR, IAM, RG, 
+MG, App Service, Functions, Logic App, AKV, VNet, Storage Account, Datalakes in an agile environment.  
+• Create central enterprise DataHub with Terraform/Python for data ingestion and transformation with Databricks, ADF, 
+Synapse, SQL, MongoDB, Redis. 
+• Develop processes and improvements around tools administration. 
+• Setup Kubernetes cluster (OpenShift). 
+• Performed maintenance and troubleshooted enterprise Redhat OpenShift systems. 
+• Upgraded Blueprints scripts to version 3.21 for Mercury project (Blue Prism Controller, Blue Prism Robots).  
+• Deployed Blueprints to DEV, SIT and test environments, troubleshoot and resolved PAT deployments issues. 
+• Provided Key Management and Certificate Management Automation (Venafi). Venafi provides comprehensive 
+management of machine identities, including SSL/TLS certificates, SSH keys, code signing keys, and cloud-based identities. 
+It ensures that machines can securely authenticate and communicate with each other 
+• From scratch setup new Security Information and Event Management (SIEM), Infrastructure Monitoring, Log 
+Management (Splunk Enterprise and Universal Forwarder (UF, Deployment Server).   
+• Build a new Personal Banking and Cards Intake Form in Confluence based on TD Bank Enterprise standards.  
+• Integrated and automated Personal Banking and Cards Intake Form with new JIRA project.  
+• Build a new JIRA workflow for Personal Banking and Cards.   
+Environments: Red Hat Enterprise Linux (RHEL), Windows Server 2012, APACHE, GitLab, Cloudify Blueprint scripts, Bash, 
+Shell Scripting, Python, JBoss Enterprise Web Server (EWS), SCRUM, Agile, JIRA, Jenkins, Confluence, Nexus, Nagios, 
+Logstash, Grafana, Prometheus, Kibana, Splunk, SQL Server 2012, Storm UI, JSON, Amazon Web Services (AWS) and EC2 
+Container Service (ECS)  
+Rogers Communications, Brampton, Ontario  
+Sr.IT Consultant/ DevOps Release Manager (SCM)                
+May 2016 – Jul 2017  
+• Setup Kubernetes cluster. Consult and implement on advanced technologies in infrastructure automation strategy 
+(infrastructure as a code) CI/CD Pipeline and Release Management Automation (Hashicorp Terraform (Infrastructure as 
+Code), Kafka, Helm (Kubernetes package manager)), SRE (Site reliability engineering). 
+• Setup Elasticsearch 1.7 in an AWS cloud environment in an agile environment. 
+• Infrastructure utilizing Chef with AWS CloudFormation and Jenkins for continuous integration. 
+• Launching Amazon EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances with 
+respect to specific applications. 
+• Managed multiple AWS accounts with multiple VPC’s for both production and non-prod where primary objectives 
+included automation, build out, integration and cost control. 
+• Implemented Terraform modules for deployment of various applications across multiple cloud providers and managing 
+infrastructure. 
+4 
+• Responsible for using AWS Console and AWS CLI for deploying and operating AWS services specifically VPC, EC2, S3, EBS, 
+IAM, ELB, Cloud Formation and Cloud Watch. 
+• Implemented CI/CD for Application Image Build, Packaging and Deployment using DevOps Tools (Ansible, Helm Charts 
+(Kubernetes package manager), Docker). 
+• Deployed and Managed Application on Kubernetes Cluster using Helm Chart. 
+• Drive application build and deployment activities simultaneously for multiple media to large sized projects.  
+• Administer and configured JIRA and Confluence web sites. 
+• Coordinate deployment activities with Enterprise Release Management and oversee transfers of code from environment 
+to environment as per SDLC and Change Management processes.  
+• Propose and implement prototypes to continuously innovate application build, packaging and deployment activities 
+(Ansible scripts for Dev, QA, Staging and Prod automation).  
+• Define and evolve a build and deployment automation framework to facilitate rapid delivery of business initiatives. 
+Environments: Linux CentOS, Red Hat Enterprise Linux (RHEL), APACHE, VMWare, Docker, Bamboo, GitLab, Ansible 
+scripts, Bash, Shell Scripting, Python, NGINX, WebLogic, Open Deploy, SiteMinder, SCRUM, Agile, Maven, JIRA, Jenkins, 
+Confluence, Cassandra DB, Azure, Amazon Web Services (AWS) and EC2 Container Service (ECS), Kubernetes, Allstream 
+Cloud Compute (IaaS)  
+Scotia Bank, Toronto, ON 
+DevOps TFS Consultant                  
+May 2015 – May 2016  
+• Build DevOps (CI/CD Pipeline) platform from scratch and manage TFS 2013/2015 infrastructure via installations, 
+configurations, and maintenance, creating/documenting solutions for development teams and applications, and 
+developing/distributing rollout questionnaires. 
+• Created Highly Available Kubernetes cluster (Ubuntu). 
+• Performed networking, infrastructure, and middleware (WebSphere/WebLogic) administration for CI/CD Process. 
+• Middleware Configuration, Application Build & Deployment, and Environment Support in an agile environment. 
+• Creating and maintaining implementation plans in support of infrastructure. 
+• Providing consultation and analyzing to identify process improvements and incidents. 
+• Excellent analytical skills and communication skills. 
+• Setup and administered Jenkins to perform build on a few applications. 
+Environments: C# .NET 4.5, VS 2013/2015, Windows Server 2012, SSIS, SSAS, SSRS, TFS 2013/2015, SCRUM, Agile, 
+Maven, JIRA, PowerShell, Shell Scripting, Python, Jenkins, VMWare, Docker, Atlassian Bitbucket (GIT), Sonatype Nexus, 
+IBM Rational Clear Case, Rational Team Concert (RTC/JAZZ) and BladeLogic, Azure, Ubuntu  
+Previous experience includes DevOps Consultant/ Senior Software Engineer  for Compuware Corporation, Vital Insights, 
+Inc., DealerTrack Canada, Inc., Katz Group Canada, Ltd., Giesecke & Devrient America, Inc. (G&D), CIBC Bank (3 
+contracts with extensions), Strategic Information Technology Ltd., Mediator Group LTD, Army and Air Force Exchange 
+Service (AAFES), Saskatchewan Liquor and Gaming Authority, Alterna Bank, Agfa HealthCare, ACA Retail Canada, 
+Inc., Janna Systems and Siebel Systems Canada, Ltd.  
+Education and Training  
+• External physics and technical school of the Ministry of Education USSR, at the Moscow Institute of Physics and 
+Technology (ZFTSh MIPT) 
+• M.Sc. in Aerospace Engineering, Space Power Systems, and Rocket Engines, Bauman Moscow State Technical University, 
+Moscow, Russia   
+• MIT Sloan & MIT CSAIL Artificial Intelligence: Implications for Business Strategy Program 
+Certifications  
+•           MS badge: "Manage authentication by using Microsoft Entra ID"  
+5 
+•         MS badge: "Secure Azure AI services" 
+•           MS badge : "Deploy Azure AI services in containers" 
+•           MS badge: "Use an Azure Machine Learning job for automation" 
+•           MS badge: "Trigger Azure Machine Learning jobs with GitHub Actions" 
+•           MS badge: "Secure your cloud apps and services with Microsoft Defender for Cloud Apps" 
+•           MS badge: "Accelerate your migration, modernization, and innovation journey to Azure" 
+•           AWS Certified Security Specialty  
+•           AWS Certified Cloud Practitioner 
+•           AWS Certified Security – Speciality Official Practice Question Set (SCS - C01) 
+•           ITIL 4 Foundation Practice Certification Exams  
+•           Master Go (Golang) programming 
+•           Certified Master Linux Administration: The Complete Linux Bootcamp for 2022 
+•           Certified CompTIA Security+ (SY0-601) Complete Course & Exam - 2022 
+•           Certified Kubernetes and Istio with Amazon Elastic Kubernetes Service (EKS)  
+•           Certified Kubernetes on AWS  
+•           Certified Azure Kubernetes Service – AKS 
+•           Certified Kubernetes Administrator 2022 
+•           Certified Containers and Kubernetes on Azure 
+•           Certified HashiCorp: Terraform Associate  
+•           Certified Kubernetes Administrator (CKA) - Updated for latest CKA (2022) 1.22 version of Exam 
+•           Certified Kubernetes Application Developer (CKAD)  
+•           Certified Splunk Admin and Architect  
+•           Certified Google Cloud Platform (GCP) Fundamentals  
+•           Docker Certified Associate (DCA)  
+•           HELM - Package Manager for Kubernetes Complete Master Course 
+•           Certified Advanced Selenium Automation  
+•           Certified OpenShift - Hands-on  
+•           Certified The Complete Apache Groovy Developers Course 
+•           Certified Python Programming Masterclass 
+•           Certified Apache Kafka Series - Kafka Cluster Setup & Administration 
+•           Certified MIT Sloan & MIT CSAIL Artificial Intelligence: Implications for Business Strategy Program  
+•           Certified Ethical Hacker [312-50]   
+•           Certified by PROGRESS Software: “Character Programming in Progress” and “4 GL Performance Tuning and 
+Advanced Program”   
+•           Certified - Administering Microsoft Dynamics CRM 2011 in Microsoft Dynamics CRM    
+•           Certified by Siebel    
+6 
+6 
