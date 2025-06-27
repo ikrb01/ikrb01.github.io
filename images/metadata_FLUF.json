@@ -1,10 +1,13 @@
 {
   "name": "FluffnuggetCoin",
   "symbol": "FLUF",
-  "uri": "https://ikrb01.github.io/images/metadata_FLUF.json"
-  "description": "FluffNugget coin. The ultimate coin for late-night crypto snack",
-  "image": "https://ikrb01.github.io/images/FluffNugget.png",
-  "properties": {
-    "files": [{ "uri": "https://ikrb01.github.io/images/FluffNugget.png", "type": "image/png" }]
-  }
+  "uri": "https://ikrb01.github.io/images/metadata_FLUF.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
