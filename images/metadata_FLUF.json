@@ -1,13 +1,32 @@
 {
   "name": "FluffnuggetCoin",
   "symbol": "FLUF",
-  "uri": "https://ikrb01.github.io/images/fluf1.json",
-  "seller_fee_basis_points": 550,
-  "creators": [
+  "description": "The official FluffnuggetCoin NFT — adorable and unstoppable.",
+  "image": "https://ikrb01.github.io/images/fluf1.png",
+  "attributes": [
     {
-      "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
-      "verified": false,
-      "share": 100
+      "trait_type": "Species",
+      "value": "Ferret"
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Astronaut"
     }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ikrb01.github.io/images/fluf1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
+        "share": 100
+      }
+    ]
+  },
+  "seller_fee_basis_points": 550
 }
