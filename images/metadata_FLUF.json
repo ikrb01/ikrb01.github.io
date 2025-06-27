@@ -2,7 +2,7 @@
   "name": "FluffnuggetCoin",
   "symbol": "FLUF",
   "uri": "https://ikrb01.github.io/images/metadata_FLUF.json",
-  "seller_fee_basis_points": 777,
+  "seller_fee_basis_points": 770,
   "creators": [
     {
       "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
