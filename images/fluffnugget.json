@@ -1,6 +1,7 @@
 {
     "name": "FluffNugget",
     "symbol": "FLUF",
+    "uri": "https://ikrb01.github.io/images/metadata_FLUF.json"
     "description": "Fluffiest meme coin powered by the community.",
     "image": "https://ikrb01.github.io/images/FluffNugget.png",
     "seller_fee_basis_points": 0,
