@@ -1,0 +1,25 @@
+{
+    "name": "FluffNugget",
+    "symbol": "FLUF",
+    "uri": "https://ikrb01.github.io/images/metadata_FLUF.json"
+    "description": "Fluffiest meme coin powered by the community.",
+    "image": "https://ikrb01.github.io/images/FluffNugget.png",
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "external_url": "https://ikrb01.github.io/",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://ikrb01.github.io/images/FluffNugget.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "65B5nM9FrCDZuP5PZW4ojxPdSpGUXCZgKsZCXV5NavDR",
+                "share": 100
+            }
+        ]
+    }
+}
