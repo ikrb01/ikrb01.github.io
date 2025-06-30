@@ -15,6 +15,7 @@
   "isSequential": true,
   "collection": {
     "name": "My NFT Collection",
-    "family": "FLUF"
+    "family": "FLUF",
+    "image": "assets/collection/collection.png"
   }
 }
