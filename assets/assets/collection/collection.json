@@ -1,0 +1,16 @@
+{
+  "name": "Astro Ferrets",
+  "symbol": "FLUF",
+  "description": "The official Astro Ferret NFT collection",
+  "image": "0.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
