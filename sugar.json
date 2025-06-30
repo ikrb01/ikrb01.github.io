@@ -1,0 +1,20 @@
+{
+  "price": 0.05,
+  "number": 3,
+  "symbol": "FLUF",
+  "sellerFeeBasisPoints": 500,
+  "creators": [
+    {
+      "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
+      "share": 100
+    }
+  ],
+  "isMutable": true,
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "isSequential": true,
+  "collection": {
+    "name": "My NFT Collection",
+    "family": "FLUF"
+  }
+}
