@@ -1,16 +1,23 @@
 {
-  "name": "Astro Ferrets",
+  "name": "My NFT Collection",
   "symbol": "FLUF",
-  "description": "The official Astro Ferret NFT collection",
-  "image": "0.png",
+  "description": "This is my NFT collection description.",
+  "seller_fee_basis_points": 500,
+  "image": "collection.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "0.png",
+        "uri": "collection.png",
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
+        "share": 100
+      }
+    ]
   }
 }
