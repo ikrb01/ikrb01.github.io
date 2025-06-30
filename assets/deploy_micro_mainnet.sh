@@ -3,15 +3,15 @@
 set -e
 
 echo "🗂️  Uploading assets to Arweave..."
-sugar upload --env=mainnet-beta
+sugar upload --mainnet
 
 echo "🚀 Deploying Candy Machine to Mainnet..."
-sugar deploy --env=mainnet-beta
+sugar deploy --mainnet
 
 echo "🔍 Verifying upload..."
-sugar verify_upload --env=mainnet-beta
+sugar verify_upload --mainnet
 
 echo "🧪 Minting 1 NFT to test..."
-sugar mint_one --env=mainnet-beta
+sugar mint_one --mainnet
 
 echo "✅ Micro deployment complete!"
