@@ -2,7 +2,7 @@
   "price": 0.05,
   "number": 3,
   "symbol": "FLUF",
-  "seller_fee_basis_points": 500,
+  "sellerFeeBasisPoints": 500,
   "solTreasuryAccount": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
   "creators": [
     {
