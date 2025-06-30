@@ -13,6 +13,7 @@
   "isMutable": true,
   "uploadMethod": "bundlr",
   "retainAuthority": true,
+  "isSequential": true,
   "guards": {
     "default": {
       "startDate": {
