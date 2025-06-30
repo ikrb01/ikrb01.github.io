@@ -1,0 +1,16 @@
+{
+  "name": "Astro Ferret #2",
+  "symbol": "FLUF",
+  "description": "A cosmic ferret exploring the stars.",
+  "image": "2fluf.png",
+  "properties": {
+    "files": [{"uri": "2fluf.png", "type": "image/png"}],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
+        "share": 100
+      }
+    ]
+  }
+}
