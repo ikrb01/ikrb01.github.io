@@ -5,5 +5,30 @@
     "candyMachineCreator": "",
     "collectionMint": ""
   },
-  "items": {}
+  "items": {
+    "0": {
+      "name": "Astro Ferret #0",
+      "image_hash": "2bd403bd160728c710f9bcedbe1a98ffa2b1a1aff2e1aa79b263dfc0ee68974b",
+      "image_link": "https://gateway.irys.xyz/AcLGcq8QihqSh7ZViwKK3M2pY96jT6J_NrJ7Iz_KkLM?ext=png",
+      "metadata_hash": "bc936ac4c838ba89aa38bbe185ac09149f9ded0742ca03659643a244437d70fb",
+      "metadata_link": "https://gateway.irys.xyz/W6agWrsfLu47knXCkHnC_KvS5x79ugu_B0_IAsu-DHM",
+      "onChain": false
+    },
+    "1": {
+      "name": "Astro Ferret #1",
+      "image_hash": "2bd403bd160728c710f9bcedbe1a98ffa2b1a1aff2e1aa79b263dfc0ee68974b",
+      "image_link": "https://gateway.irys.xyz/zP0Lti-jj2zneyWQYKsIGHxg_RDS4nZd1x4kvJ21deQ?ext=png",
+      "metadata_hash": "56ab24266a98da2a0e76f86f7d54111f570a68a0eed10482a228a29c0d7343ba",
+      "metadata_link": "https://gateway.irys.xyz/KhE1GSNPO-JiK3TpFNp-ChzHwcIAyv7fSaSDnN6ZA5c",
+      "onChain": false
+    },
+    "2": {
+      "name": "Astro Ferret #2",
+      "image_hash": "2bd403bd160728c710f9bcedbe1a98ffa2b1a1aff2e1aa79b263dfc0ee68974b",
+      "image_link": "https://gateway.irys.xyz/iDbbPYQC95nKgk1lXGfk3MFqlL38QRq2Ub95Xa9yFIU?ext=png",
+      "metadata_hash": "8446bc89ba7beb212e996319001ce59dd557217c9a65aa7e984e8d959db2322c",
+      "metadata_link": "https://gateway.irys.xyz/YklQcxlWf0VsHnDu0TcNadiX40pjRDMQvP4uF37CCNI",
+      "onChain": false
+    }
+  }
 }

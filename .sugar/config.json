@@ -1,0 +1,6 @@
+{
+  "rpc_url": "https://api.mainnet-beta.solana.com",
+  "keypair": "/home/i_v_a/ikrb01.github.io/phantom-keypair.json",
+  "cache": "cache.json",
+  "assets_dir": "assets"
+}
