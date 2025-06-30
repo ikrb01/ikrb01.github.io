@@ -1,17 +1,20 @@
 {
-  "price": 0.01,
+  "price": 1,
   "number": 3,
   "symbol": "MNFT",
   "sellerFeeBasisPoints": 500,
+  "gatekeeper": null,
   "creators": [
     {
       "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
       "share": 100
     }
   ],
+  "isMutable": true,
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
   "collection": {
-    "name": "My Test Collection",
-    "family": "TestFamily"
-  },
-  "uploadMethod": "bundlr"
+    "name": "My Collection",
+    "family": "My NFTs"
+  }
 }
