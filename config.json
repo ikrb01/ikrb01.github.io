@@ -4,9 +4,16 @@
   "symbol": "MNFT",
   "sellerFeeBasisPoints": 500,
   "gatekeeper": null,
+  "creators": [
+    {
+      "address": "DjZuGdYN4msYrFmLaPoHiqVcfFrnzPTsEyBDfTWRCzgM",
+      "share": 100
+    }
+  ],
   "isMutable": true,
   "uploadMethod": "bundlr",
   "retainAuthority": true,
+  "isSequential": true,
   "collection": {
     "name": "My Collection",
     "family": "My NFTs"
