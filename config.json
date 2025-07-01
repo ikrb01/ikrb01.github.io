@@ -14,5 +14,10 @@
   "uploadMethod": "bundlr",
   "retainAuthority": true,
   "isSequential": true,
-  "ruleSet": null
+  "ruleSet": null,
+  "collection": {
+  "name": "My Collection",
+  "family": "My NFTs"
+}
+
 }
