@@ -13,5 +13,6 @@
   "isMutable": true,
   "uploadMethod": "bundlr",
   "retainAuthority": true,
-  "isSequential": true
+  "isSequential": true,
+  "ruleSet": null
 }
